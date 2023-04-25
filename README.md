@@ -1,8 +1,6 @@
+[<img src='https://github.com/SvitlanaHonchar/SvitlanaHonchar/blob/main/Screenshot_1.png' alt='banner' height='220'>]
 ### Hi there 👋,  
 #### I'm Svitlana from Ukraine
-
-[<img src='https://github.com/SvitlanaHonchar/SvitlanaHonchar/blob/main/Screenshot_1.png' alt='banner' height='200'>]
-
 
 Skills: REACT / JS / HTML / CSS
 
