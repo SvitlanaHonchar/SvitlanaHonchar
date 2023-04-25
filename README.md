@@ -1,7 +1,7 @@
 ### Hi there 👋,  
 #### I'm Svitlana from Ukraine
 
-[<img src='https://github.com/SvitlanaHonchar/SvitlanaHonchar/blob/main/Screenshot_1.png' alt='banner' height='100'>]
+[<img src='https://github.com/SvitlanaHonchar/SvitlanaHonchar/blob/main/Screenshot_1.png' alt='banner' height='200'>]
 
 
 Skills: REACT / JS / HTML / CSS
